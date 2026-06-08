@@ -9,5 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module",
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "ethers": "^6.16.0",
+    "hardhat": "^3.7.0"
+  }
 }
